@@ -1,5 +1,5 @@
 <#OpenChampionship-2026
-<SEGA
+<XBOX
 <VirtuaFighter-7
 <VFOC ReturnsAndItStartsAtEVO-Japan
 <--
