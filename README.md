@@ -1,2 +1,5 @@
-# -OpenChampionship-2026-
-&lt;SEGA&lt;
+<#OpenChampionship-2026
+<SEGA
+<VirtuaFighter-7
+<VFOC ReturnsAndItStartsAtEVO-Japan
+<--
